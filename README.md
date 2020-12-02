@@ -1,4 +1,5 @@
 ### Hi there 👋
+![whisper](https://github.githubassets.com/images/mona-whisper.gif "whisper")
 
 <!--
 **tchartron/tchartron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
