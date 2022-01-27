@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![whisper](https://github.githubassets.com/images/mona-whisper.gif "whisper")
 
-Web developer from Annecy (FRANCE)  
+I am a web developer from Annecy (FRANCE)  
 I currently love working with the Laravel / Inertia / Vue / Tailwind stack.  
 I also like devops things, Docker, Gitlab CI/CD, setting up Debian servers, writing bash scripts, ...  
 
