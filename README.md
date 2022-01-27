@@ -1,6 +1,10 @@
 ### Hi there 👋
 ![whisper](https://github.githubassets.com/images/mona-whisper.gif "whisper")
 
+Web developer from Annecy (FRANCE)  
+I currently love working with the Laravel / Inertia / Vue / Tailwind stack.  
+I also like devops things, Docker, Gitlab CI/CD, setting up Debian servers, writing bash scripts, ...  
+
 <!--
 **tchartron/tchartron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
