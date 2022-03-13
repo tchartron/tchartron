@@ -3,7 +3,7 @@
 
 I am a web developer from Annecy (FRANCE)  
 I currently love working with the Laravel / Inertia / Vue / Tailwind stack.  
-I also like devops things, Docker, Gitlab CI/CD, setting up Debian servers, writing bash scripts, ...  
+I also like devops things, Docker, Gitlab CI/CD, setting up Debian servers, writing bash scripts, installing and maintaining relational databases ...  
 
 <!--
 **tchartron/tchartron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
