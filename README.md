@@ -12,9 +12,8 @@ ___
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/)
 ___
 
-I love working with the Laravel (9.x) / Inertia / VueJS (3.x) / Tailwind (3.x) stack.  
+I love working with the Laravel (9.x) / Inertia / VueJS (3.x) / Tailwind (3.x) stack. VILT stack !  
 I also love devops things like Docker (+ Swarm), Gitlab CI/CD, setting up Debian servers, writing bash scripts, installing and maintaining relational databases ...  
 
-I'm interested in software develoment but mainly in web programming and web technologies.  
 
 ![whisper](https://github.githubassets.com/images/mona-whisper.gif "whisper")
