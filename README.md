@@ -1,6 +1,6 @@
 ### Hi, I'm Thomas Chartron 👋
 
-I'm a web developer from Annecy (France),  
+I'm a web developer from France,  
 ___
 [![Github badge](https://img.shields.io/badge/Github-000000?style=flat&logo=github&link=https://github.com/tchartron)](https://github.com/tchartron)
 [![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-chartron-b25718133)](https://www.linkedin.com/in/thomas-chartron-b25718133/)
@@ -13,8 +13,6 @@ ___
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/)
 ___
 
-I love working with the Laravel (9.x) / Inertia / VueJS (3.x) / Tailwind (3.x) stack. VILT stack !  
-I also love devops things like Docker (+ Swarm), Gitlab CI/CD, setting up Debian servers, writing bash scripts, installing and maintaining relational databases ...  
-
+I love working with the Laravel (9.x) / Inertia / VueJS (3.x) / Tailwind (3.x) stack.
 
 ![whisper](https://github.githubassets.com/images/mona-whisper.gif "whisper")
