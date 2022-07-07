@@ -13,6 +13,5 @@ ___
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white&link=https://tailwindcss.com/)
 ___
 
-I love working with the Laravel (9.x) / Inertia / VueJS (3.x) / Tailwind (3.x) stack.
 
-![whisper](https://github.githubassets.com/images/mona-whisper.gif "whisper")
+[![stats](https://github-readme-stats.vercel.app/api?username=tchartron&theme=blue-green)
