@@ -1,6 +1,5 @@
-### Hi, I'm Thomas Chartron 👋
-
-I'm a web developer from France,  
+### Hi 👋🏼
+ 
 ___
 ![Github badge](https://img.shields.io/badge/Github-000000?style=flat&logo=github&link=https://github.com/tchartron)](https://github.com/tchartron)
 ![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-chartron-b25718133)](https://www.linkedin.com/in/thomas-chartron-b25718133/)
