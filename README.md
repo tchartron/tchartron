@@ -16,7 +16,6 @@ Loved tech stacks :
 
 ![Ansible](https://img.shields.io/badge/ansible-ee0000?style=flat&logo=ansible&logoColor=white&link=https://ansible.com/)
 ![Docker](https://img.shields.io/badge/docker-003f8c?style=flat&logo=docker&logoColor=white&link=https://docker.com/)
-![Kubernetes](https://img.shields.io/badge/kubernetes-7b42bc?style=flat&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)
 ![Terraform](https://img.shields.io/badge/terraform-7b42bc?style=flat&logo=terraform&logoColor=white&link=https://terraform.io/)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-7b42bc?style=flat&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)
 ___
