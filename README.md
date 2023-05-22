@@ -7,7 +7,7 @@ ___
 [![Twitter badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tchartron)](https://twitter.com/tchartron)
 [![Gitlab badge](https://img.shields.io/badge/Gitlab-FCA121?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/tchartron)](https://gitlab.com/tchartron)
 
-Loved tech stacks :  
+___
 
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white&link=https://laravel.com)
 ![Vuejs](https://img.shields.io/badge/vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=white&link=https://vuejs.org)
