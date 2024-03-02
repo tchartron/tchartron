@@ -3,9 +3,9 @@
 ___
 
 [![Github badge](https://img.shields.io/badge/Github-000000?style=flat&logo=github&link=https://github.com/tchartron)](https://github.com/tchartron)
+[![Gitlab badge](https://img.shields.io/badge/Gitlab-FCA121?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/tchartron)](https://gitlab.com/tchartron)
 [![Linkedin badge](https://img.shields.io/badge/Linkedin-0274b3?style=flat&logo=linkedin&link=https://www.linkedin.com/in/thomas-chartron-b25718133)](https://www.linkedin.com/in/thomas-chartron-b25718133/)
 [![Twitter badge](https://img.shields.io/badge/Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/tchartron)](https://twitter.com/tchartron)
-[![Gitlab badge](https://img.shields.io/badge/Gitlab-FCA121?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/tchartron)](https://gitlab.com/tchartron)
 
 ___
 
