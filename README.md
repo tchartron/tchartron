@@ -19,6 +19,3 @@ ___
 ![Terraform](https://img.shields.io/badge/terraform-7b42bc?style=flat&logo=terraform&logoColor=white&link=https://terraform.io/)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-7b42bc?style=flat&logo=kubernetes&logoColor=white&link=https://kubernetes.io/)
 ___
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=tchartron&theme=nightowl&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
