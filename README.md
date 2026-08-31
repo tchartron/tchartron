@@ -1,4 +1,26 @@
-### Hi 👋🏼
+# Hi, I'm Thomas 👋
+
+I'm a **DevOps Engineer** with a strong background in web development.
+
+I enjoy working across the stack, from application code to cloud infrastructure, and building reliable and maintainable systems.
+
+### Tech I work with
+
+* **Cloud & Infrastructure:** AWS, OVHcloud, OpenStack, Terraform
+* **Containers:** Docker, Kubernetes, Helm
+* **CI/CD & GitOps:** GitLab CI/CD, ArgoCD
+* **Development:** PHP, Laravel, Go, Bash, JavaScript
+* **Databases:** PostgreSQL, MySQL/MariaDB, Redis, Elasticsearch
+* **Networking:** Nginx, Apache, Traefik, HAProxy, Cloudflare
+
+### Currently
+
+I'm focused on improving my skills in **DevOps, cloud infrastructure, Kubernetes and automation**, while experimenting with new technologies through personal projects.
+
+### Outside tech
+
+🚴 Cycling - 🎿 Skiing - 🏂 Snowboarding - 📚 Reading
+
  
 ___
 
