@@ -7,10 +7,10 @@ I enjoy working across the stack, from application code to cloud infrastructure,
 ### Tech I work with
 
 * **Cloud & Infrastructure:** AWS, OVHcloud, OpenStack, Terraform
-* **Containers:** Docker, Kubernetes, Helm
-* **CI/CD & GitOps:** GitLab CI/CD, ArgoCD
+* **Containers:** Docker, Kubernetes, Helm, Talos
+* **CI/CD & GitOps:** GitLab CI/CD, FluxCD, ArgoCD
 * **Development:** PHP, Laravel, Go, Bash, JavaScript
-* **Databases:** PostgreSQL, MySQL/MariaDB, Redis, Elasticsearch
+* **Databases/Storage:** PostgreSQL, MySQL/MariaDB, Redis, Elasticsearch
 * **Networking:** Nginx, Apache, Traefik, HAProxy, Cloudflare
 
 ### Currently
