@@ -6,7 +6,7 @@ I enjoy working across the stack, from application code to cloud infrastructure,
 
 ### Tech I work with
 
-* **Cloud & Infrastructure:** AWS, OVHcloud, OpenStack, Terraform
+* **Cloud & Infrastructure:** AWS, OVHcloud, OpenStack, Terraform, Ansible
 * **Containers:** Docker, Kubernetes, Helm, Talos
 * **CI/CD & GitOps:** GitLab CI/CD, FluxCD, ArgoCD
 * **Development:** PHP, Laravel, Go, Bash, JavaScript
